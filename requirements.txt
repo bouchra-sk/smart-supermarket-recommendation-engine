@@ -1,0 +1,15 @@
+# --- Manipulation et Analyse de Données ---
+pandas==2.2.2
+numpy==1.26.4
+
+# --- Visualisation Graphique ---
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# --- Machine Learning & Filtrage (TF-IDF, Cosine Similarity, Scalers) ---
+scikit-learn==1.5.0
+joblib==1.4.2
+
+# --- Base de Données & Async (pour export_to_csv.py) ---
+SQLAlchemy==2.0.30
+asyncio==3.4.3

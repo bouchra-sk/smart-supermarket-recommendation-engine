@@ -81,12 +81,3 @@ Model performance, ranking correctness, and list variety are continuously tracke
 * **Storage Artifacts:** Compressed Python Pickles / serialized joblib models
 
 ---
-
-## 🚀 Deployment & Local Execution
-
-### 1. Project Setup
-Clone this repository and ensure all serialized artifacts (`.pkl` files) are placed under the expected directory structure.
-```bash
-git clone https://github.com/bouchra-sk/smart-supermarket-recommendation-engine.git
-
-cd smart-supermarket-recommendation-engine
